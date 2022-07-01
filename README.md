@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishon Kumar Pashi
-- 👀 I’m interested in Freelance Projects
+- 👀 I’m interested in Freelance Projects / Remote Jobs
 - 🌱 I’m currently learning IOS Developement
 - 💞️ I’m looking to collaborate on Android Developement Projects
 - 📫 Reach me via e-mail pritu111225@gmail.com
