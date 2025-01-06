@@ -1,13 +1,40 @@
-👋 Hey there! I'm Kishon Kumar Pashi, a passionate software developer specializing in mobile app development and backend development. 
+# Hi there! 👋 I'm Kishon Kumar Pashi
 
-📱 On the mobile app front, I have experience in both Native Android Development and Flutter Development. Whether it's building sleek and performant Native Android Apps or creating beautiful and responsive cross-platform apps using Flutter, I love crafting user-friendly experiences that leave a lasting impact.
+Welcome to my GitHub profile! I'm a **Software Engineer** with a passion for building robust, scalable, and user-centric software solutions. With a strong foundation in **Computer Science** (Diploma and BSc), I specialize in **Software Engineering**, particularly in mobile and backend development.
 
-💻 When it comes to backend development, I'm well-versed in popular frameworks such as Laravel and Node.js. I enjoy architecting scalable and robust backend systems, implementing RESTful APIs, and working with databases to deliver efficient and secure solutions.
+## 👨‍💻 About Me
 
-🌐 Besides my technical skills, I'm a firm believer in the power of collaboration and clean code practices. I thrive in agile environments, embracing teamwork, and constantly seeking opportunities to learn and grow.
+- 🏢 **Co-founder & CTO** of [MarketSwipe Technologies Limited](https://marketswipe.agency)
+- 💻 Skilled in:
+  - **Mobile Development**: Android Native, Flutter
+  - **Backend Development**: Crafting efficient and scalable backend solutions
+  - **Web Development**: Expertise in delivering modern, responsive web apps
+- 🌟 Committed to providing top-notch **free website audits** via [MarketSwipe Audit Tool](https://audit.marketswipe.agency)
 
-🚀 I'm constantly exploring new technologies and staying up-to-date with the latest industry trends. As an avid problem solver, I enjoy tackling complex challenges and finding innovative solutions to deliver high-quality software.
+## 🚀 Projects & Contributions
 
-📚 Feel free to check out my repositories to see some of my projects and contributions. I'm always open to collaborations and would love to connect with fellow developers and contribute to exciting open-source projects.
+Here, you'll find some of my work, including:
 
-📫 You can reach me via pritu111225@gmail.com or connect with me on www.linkedin.com/in/kish0n/. Let's build amazing software together!
+- Open-source contributions in **mobile and web app development**
+- Cutting-edge experiments in **Flutter** and **Android Native**
+- Tools and utilities for **developers and businesses**
+
+## 🌱 Currently Learning
+
+I'm continually exploring the latest in:
+
+- Cross-platform development with **Flutter**
+- Backend frameworks and APIs
+- Emerging technologies like **AI**, **blockchain**, and **IoT**
+
+## 📫 Get in Touch
+
+- 🖥️ Website: [MarketSwipe Technologies](https://marketswipe.agency)
+- 📧 Email: kishon.pashi@example.com
+- 💼 LinkedIn: [Kishon Kumar Pashi](https://www.linkedin.com/in/kish0n/)
+
+Feel free to explore my repositories, contribute, or connect with me!
+
+---
+
+⭐️ **Fun Fact:** I believe technology can transform lives, one line of code at a time.
