@@ -30,7 +30,7 @@ I'm continually exploring the latest in:
 ## 📫 Get in Touch
 
 - 🖥️ Website: [MarketSwipe Technologies](https://marketswipe.agency)
-- 📧 Email: kishon.pashi@example.com
+- 📧 Email: kishon@marketswipe.agency
 - 💼 LinkedIn: [Kishon Kumar Pashi](https://www.linkedin.com/in/kish0n/)
 
 Feel free to explore my repositories, contribute, or connect with me!
